@@ -1,0 +1,7 @@
+.vs/
+[Dd]ebug/
+
+*.log
+*.obj
+*.tlog
+*.user
